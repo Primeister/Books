@@ -23,17 +23,6 @@ Business Income Tracker allows users to record different sources of business inc
 - **MPAndroidChart** (replace if you used another chart library)
 - Android SDK
 
-## 📷 Screenshots
-
-Add screenshots of your application here.
-
-```
-screenshots/
-├── home.png
-├── add-income.png
-├── charts.png
-└── statement.png
-```
 
 ## 🚀 Installation
 
@@ -75,10 +64,6 @@ screenshots/
 ## 🤝 Contributing
 
 Contributions are welcome! Feel free to fork the repository, submit issues, or create pull requests to improve the application.
-
-## 📄 License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more information.
 
 ## 👨‍💻 Author
 
